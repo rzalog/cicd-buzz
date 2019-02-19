@@ -1,4 +1,3 @@
-dist: xenial  
 python:
   - "3.6"
 language: python
