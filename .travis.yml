@@ -12,3 +12,4 @@ script:
 
 after_success:
   - sh .travis/deploy_dockerhub.sh
+  - python post_rpi.py
